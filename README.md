@@ -1,0 +1,1 @@
+# maxichipi-store-api
